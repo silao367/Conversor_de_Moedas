@@ -1,0 +1,7 @@
+1:  cd Desktop/Conversor_de_Moedas
+
+2:  streamlit run app.py
+
+NO TERMINAL APARECERA A URL EX:
+
+Local URL: http://localhost:8501
